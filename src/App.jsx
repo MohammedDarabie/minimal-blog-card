@@ -2,7 +2,7 @@ import photo from "./assets/cactus_img.jpg";
 
 function App() {
   return (
-    <div className="bg-[#E5EAF0] h-[100vh] flex justify-center ">
+    <div className="font-sora bg-[#E5EAF0] h-[100vh] flex justify-center ">
       <div className="w-fit h-fit mt-40 px-4 pt-4 pb-5 rounded-xl bg-[#FAFAF9]">
         {/* Photo */}
         <div>
@@ -14,7 +14,9 @@ function App() {
             Design
           </h3>
           <div className="mb-[0.375rem]">
-            <h1 className="text-[1.125rem] font-bold ">Embracing Minimalism</h1>
+            <h1 className="text-[1.125rem] pt-4 pb-2 font-bold ">
+              Embracing Minimalism
+            </h1>
             <div className="pb-[1.25rem]">
               <p className="text-[0.875rem]">
                 From minimalist sculptures to minimalist <br /> paintings, this
