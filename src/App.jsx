@@ -28,8 +28,8 @@ function App() {
         </div>
         {/* End Text Div */}
         {/* Ending */}
-        <div className="mt-5 border-t-2">
-          <p className="pt-3">Mohammed Darabie</p>
+        <div className="mt-3 border-t-2">
+          <p className="pt-3 text-[0.625rem]">Mohammed Darabie</p>
         </div>
         {/* End Ending */}
       </div>
