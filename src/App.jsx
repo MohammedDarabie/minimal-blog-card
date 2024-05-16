@@ -9,8 +9,8 @@ function App() {
           <img className="rounded-xl w-[21rem]" src={photo} />
         </div>
         {/* Text Div */}
-        <div className="my-4 ">
-          <h3 className="bg-[#E6D6FC] w-fit py-1 px-4 rounded-lg text-[0.75rem] font-bold text-[#883AE1]">
+        <div className="my-4 font-extralight">
+          <h3 className="bg-[#E6D6FC] w-fit py-1 px-4 rounded-lg text-[0.75rem] font-semibold text-[#883AE1]">
             Design
           </h3>
           <div className="mb-[0.375rem]">
@@ -29,7 +29,7 @@ function App() {
         {/* End Text Div */}
         {/* Ending */}
         <div className="mt-3 border-t-2">
-          <p className="pt-3 text-[0.625rem]">Mohammed Darabie</p>
+          <p className="pt-3 text-[0.625rem] font-extralight">Mohammed Darabie</p>
         </div>
         {/* End Ending */}
       </div>
